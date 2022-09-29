@@ -2,7 +2,7 @@ name: TOP10MOVIE
 
 on:
   push:
-   branches: [ master ]
+   branches: [ main ]
       
 jobs:
   build:
